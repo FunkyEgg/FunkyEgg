@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MrEggoXYZ
+- 👀 I’m interested in node.js and unity visual scripting
+- 🌱 I’m currently learning advanced node.js
+- 💞️ I’m looking to collaborate on nothing and everything
+- 📫 you can reach me via my discord https://discord.gg/4sqCTqxvKA
