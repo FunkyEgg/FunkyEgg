@@ -6,7 +6,7 @@
 - If you have a dream dont give up, reach for the stars just to get that dream :)
 
 js
-```javasript
+```javascript
 const isEgg = True;
 ```
 py
