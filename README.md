@@ -13,11 +13,16 @@ py
 ```python
 isEgg = True
 ```
+c
+```c
+#include <stdbool.h>
+bool isEgg = true;
+```
 c#
 ```csharp
-bool isEgg = True;
+bool isEgg = true;
 ```
 c++
 ```cpp
-bool isEgg = True;
+bool isEgg = true;
 ```
