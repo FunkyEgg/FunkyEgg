@@ -7,7 +7,7 @@
 
 js
 ```javascript
-bool isEgg = true;
+const isEgg = true;
 ```
 py
 ```python
