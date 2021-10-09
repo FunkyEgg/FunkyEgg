@@ -5,7 +5,7 @@
 - 📫 you can reach me via my [discord server](https://discord.gg/4sqCTqxvKA) or my discord; Mr Eggo#7419
 - If you have a dream dont give up, reach for the stars just to get that dream :)
 
-#Langs I Know
+# Langs I Know
 
 js
 ```javascript
