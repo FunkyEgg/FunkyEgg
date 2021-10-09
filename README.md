@@ -7,11 +7,16 @@
 
 js
 ```javascript
-const isEgg = True;
+bool isEgg = true;
 ```
 py
 ```python
 isEgg = True
+```
+c
+```c
+#include <stdbool.h>
+bool isEgg = true
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrEggoXYZ&theme=tokyonight)
