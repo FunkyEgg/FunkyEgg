@@ -14,4 +14,4 @@ py
 isEgg = True
 ```
 
-[![MrEggoXYZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrEggoXYZ)](https://github.com/anuraghazra/github-readme-stats)
+![MrEggo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrEggoXYZ&show_icons=true&theme=tokyonight)
