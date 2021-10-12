@@ -18,6 +18,6 @@ c++, css
 
 #Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrEggoXYZ&theme=tokyonight)]
-[![MrEggo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrEggoXYZ&count_private=true&theme=tokyonight)]
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrEggoXYZ&theme=tokyonight)
+[MrEggo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrEggoXYZ&count_private=true&theme=tokyonight)
 
