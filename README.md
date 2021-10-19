@@ -6,10 +6,10 @@
 - If you have a dream dont give up, reach for the stars just to get that dream :)
 
 # Languages I Know
-js, ts, c, py, html
+js, ts, py, html
 
 # Languages I Want To Know
-c++, css
+c++, scss
 
 # Things I Plan To Do
 - Fully learn typescript
@@ -18,6 +18,6 @@ c++, css
 
 # Github Stats
 
-[![Top Coding Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrEggoXYZ&theme=tokyonight)]
-[![MrEggo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrEggoXYZ&count_private=true&theme=tokyonight)]
+![Top Coding Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrEggoXYZ&theme=tokyonight)
+![MrEggo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrEggoXYZ&count_private=true&theme=tokyonight)
 
