@@ -6,7 +6,7 @@
 - If you have a dream dont give up, reach for the stars just to get that dream :)
 
 # Languages I Know
-js, ts, py, html
+js, py, html
 
 # Languages I Want To Know
 c++, scss
