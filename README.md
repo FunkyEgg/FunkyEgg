@@ -6,15 +6,13 @@
 - If you have a dream dont give up, reach for the stars just to get that dream :)
 
 # Languages I Know
-js, py, html
+js, py
 
 # Languages I Want To Know
-c++, scss
+None rn ngl
 
 # Things I Plan To Do
-- Fully learn typescript
-- Finish [Scrape](https://github.com/MrEggoXYZ/Scrape)
-- Make a game engine (est: october 2022) if im lucky
+Make ezdjs
 
 # Github Stats
 
