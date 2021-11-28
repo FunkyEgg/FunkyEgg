@@ -2,7 +2,7 @@
 - 👀 I’m interested in all diffrent things
 - 🌱 I’m currently chilling in lockdown
 - 💞️ I’m looking to collaborate on anything i feel fit
-- 📫 you can reach me via my [discord server](https://discord.gg/4sqCTqxvKA) or my discord; Mr Eggo#7419
+- 📫 you can reach me via my discord; Mr Eggo#2048
 - If you have a dream dont give up, reach for the stars just to get that dream :)
 
 # Languages I Know
