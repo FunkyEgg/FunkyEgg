@@ -12,7 +12,9 @@ js, py
 None rn ngl
 
 # Things I Plan To Do
-Make ezdjs
+| Thing | When |
+| ----- | ---- |
+| ezdjs | In my free time |
 
 # Github Stats
 
