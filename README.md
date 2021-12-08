@@ -14,7 +14,7 @@ None rn ngl
 # Things I Plan To Do
 | Thing | When |
 | ----- | ---- |
-| ezdjs | In my free time |
+| Nothin :( | :( |
 
 # Github Stats
 
