@@ -6,7 +6,7 @@
 - If you have a dream dont give up, reach for the stars just to get that dream :)
 
 # Languages I Know
-js, py
+js, py, rust
 
 # Languages I Want To Know
 None rn ngl
@@ -14,7 +14,7 @@ None rn ngl
 # Things I Plan To Do
 | Thing | When |
 | ----- | ---- |
-| Nothin :( | :( |
+| Eggshell | In free time |
 
 # Github Stats
 
