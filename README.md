@@ -14,7 +14,7 @@ None rn ngl
 # Things I Plan To Do
 | Thing | When |
 | ----- | ---- |
-| Eggshell | In free time |
+| smth in rust | In free time |
 
 # Github Stats
 
