@@ -14,7 +14,7 @@ None rn ngl
 # Things I Plan To Do
 | Thing | When |
 | ----- | ---- |
-| smth in rust | In free time |
+| Rouge Sentinel | In free time |
 
 # Github Stats
 
