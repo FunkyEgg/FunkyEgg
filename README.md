@@ -20,4 +20,3 @@ None rn ngl
 
 ![Top Coding Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrEggoXYZ&theme=tokyonight)
 ![MrEggo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrEggoXYZ&count_private=true&theme=tokyonight)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/MrEggoXYZ/repos?time_range=one_year&loc_metric=changed&theme=synthwaves)](https://githubtrends.io)
