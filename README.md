@@ -14,7 +14,6 @@ None rn ngl
 # Things I Plan To Do
 | Thing | When |
 | ----- | ---- |
-| Rouge Sentinel | In free time |
 | Sweeper.js | In free time |
 
 # Github Stats
