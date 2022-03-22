@@ -15,6 +15,7 @@ None rn ngl
 | Thing | When |
 | ----- | ---- |
 | Rouge Sentinel | In free time |
+| Sweeper.js | In free time |
 
 # Github Stats
 
