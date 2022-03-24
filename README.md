@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FunkyEgg
+- 👋 Hi, I’m @MrEggoXYZ
 - 👀 I’m interested in all diffrent things
 - 🌱 I’m currently in school
 - 💞️ I’m looking to collaborate on anything i feel fit
