@@ -18,5 +18,5 @@ C++
 
 # Github Stats
 
-![Top Coding Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrEggoXYZ&theme=tokyonight)
-![MrEggo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrEggoXYZ&count_private=true&theme=tokyonight)
+![Top Coding Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FunkyEgg&theme=tokyonight)
+![MrEggo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FunkyEgg&count_private=true&theme=tokyonight)
