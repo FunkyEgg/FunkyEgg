@@ -11,7 +11,7 @@ js, ts, scss, py, html
 # Languages I Am Learning
 C
 
-#Languages I Want To Know
+# Languages I Want To Know
 C++
 
 # Things I Plan To Do
