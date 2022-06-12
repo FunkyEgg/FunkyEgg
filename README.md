@@ -6,9 +6,12 @@
 - If you have a dream dont give up, reach for the stars just to get that dream :)
 
 # Languages I Know
-js, ts, scss, py, rust, c#
+js, ts, scss, py, html
 
-# Languages I Want To Know
+# Languages I Am Learning
+C
+
+#Languages I Want To Know
 C++
 
 # Things I Plan To Do
