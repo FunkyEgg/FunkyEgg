@@ -9,7 +9,7 @@
 js, ts, scss, py, html
 
 # Languages I Am Learning
-C
+None atm
 
 # Languages I Want To Know
 C++
