@@ -6,18 +6,17 @@
 - If you have a dream dont give up, reach for the stars just to get that dream :)
 
 # Languages I Know
-js, ts, scss, py, html
+py, js/ts, rust, odin
 
 # Languages I Am Learning
-None atm
+Zig
 
 # Languages I Want To Know
-C++
 
 # Things I Plan To Do
 | Thing | When |
 | ----- | ---- |
-| None | Never |
+| Make a os in zig | Now |
 
 # Github Stats
 
